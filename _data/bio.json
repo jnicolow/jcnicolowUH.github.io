@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Joel Curtis Nicolow",
+    "label": "Student",
+    "picture": "/img/headshot_joel_nicolow_reduced_quality.jpg",
+    "email": "jnicolow@hawaii.edu",
+    "phone": "(808) 594-7808",
+    "website": "https://jcnicolowUH.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaiʻi. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "96734", "city": "Kailua", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jcnicolowUH", "url": "http://github.com/jcnicolowUH" },
+      { "network": "linkedin", "username": "joelnicolow", "url": "https://www.linkedin.com/in/joel-nicolow-04a3721ba/" }
+    ]
+  },
+  "interests": [
+    { "name": "Data Science" },
+    { "name": "Machine Learning" },
+    { "name": "Remote Sensing" },
+    { "name": "Computer Vision" },
+    { "name": "Data Science applications in the climate sciences" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "R", "LaTeX", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "GitHub",]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaiʻi, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Hawaiʻi Established Program to Stimulate Competitive Research (EPSCoR) Change(HI)",
+      "position": "Undergraduate Researcher",
+      "website": "https://hawaii.edu/epscor/change-hi/",
+      "startDate": "2023-01-09",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+    {
+      "company": "Climate Resilience Collabrative",
+      "position": "Introductory Remote Sensing Specialist",
+      "website": "https://www.soest.hawaii.edu/crc/",
+      "startDate": "2022-03-23",
+      "endDate": "Present",
+      "summary": "Introductory Remote Sensing Specialist at the Climate Resilience Collabrative in SOEST. Working with APIs and geospatial data in Python 3 including contour extraction and the use of machine learning toolkits for pixel classification.",
+      "highlights": [
+        "Presentation Skills",
+        "Machine Learning",
+        "Contour Extraction",
+        "Remote Sensing"
+      ]
+    },
+    {
+      "company": "Hawaiʻi Established Program to Stimulate Competitive Research (EPSCoR) Change(HI)",
+      "position": "Undergraduate Researcher",
+      "website": "https://hawaii.edu/epscor/change-hi/",
+      "startDate": "2023-01-09",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
