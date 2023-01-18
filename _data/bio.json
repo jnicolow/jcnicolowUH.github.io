@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Joel Curtis Nicolow",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "\",
+    "email": "jnicolow@hawaii.edu",
+    "phone": "(808) 594-7808",
+    "website": "https://jcnicolowUH.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaiʻi. I expect to graduate in Fall, 2024.",
     "location": { "address": "", "postalCode": "96734", "city": "Kailua", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jcnicolowUH", "url": "http://github.com/jcnicolowUH" },
@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Git/GitHub",]
+      "keywords": [ "Windows", "GitHub",]
     }
   ],
   "education": [
@@ -43,23 +43,37 @@
   ],
   "work": [
     {
-      "company": "Climate Resilience Collabrative",
-      "position": "Introductory Remote Sensing Specialist",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Hawaiʻi Established Program to Stimulate Competitive Research (EPSCoR) Change(HI)",
+      "position": "Undergraduate Researcher",
+      "website": "https://hawaii.edu/epscor/change-hi/",
+      "startDate": "2023-01-09",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Climate Resilience Collabrative",
+      "position": "Introductory Remote Sensing Specialist",
+      "website": "https://www.soest.hawaii.edu/crc/",
+      "startDate": "2022-03-23",
+      "endDate": "Present",
+      "summary": "Introductory Remote Sensing Specialist at the Climate Resilience Collabrative in SOEST. Working with APIs and geospatial data in Python 3 including contour extraction and the use of machine learning toolkits for pixel classification.",
+      "highlights": [
+        "Presentation Skills",
+        "Machine Learning",
+        "Contour Extraction",
+        "Remote Sensing"
+      ]
+    },
+    {
+      "company": "Hawaiʻi Established Program to Stimulate Competitive Research (EPSCoR) Change(HI)",
+      "position": "Undergraduate Researcher",
+      "website": "https://hawaii.edu/epscor/change-hi/",
+      "startDate": "2023-01-09",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
