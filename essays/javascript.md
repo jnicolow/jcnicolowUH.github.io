@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/javascript/th-3901826071.jpg">
 
 My first exposure to JavaScript was while working at the Pacific Health Analytics Collabrative. We had no  webdevelopers and were tasked with implementing the Hawaiʻi Behavioral Health Dashboard (HBHD). My task was to write the back end JavaScript for the dashboard. During this experience I did not under go formal training with the language and at the time only had worked in the programing language/statistical package R. 
 
