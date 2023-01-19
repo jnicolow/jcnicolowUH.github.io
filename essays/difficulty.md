@@ -1,54 +1,17 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "JavaScript unleash its full potential"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-01-18
 published: true
 labels:
-  - Engineering
+  - JavaScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+My first exposure to JavaScript was while working at the Pacific Health Analytics Collabrative. We had no  webdevelopers and were tasked with implementing the Hawaiʻi Behavioral Health Dashboard (HBHD). My task was to write the back end JavaScript for the dashboard. During this experience I did not under go formal training with the language and at the time only had worked in the programing language/statistical package R. 
+Now after completing the Basic JavaScript and ES6 modules on freeCodeCamp I have gained a new understanding of JavaScript. Not only was the course a good refresher of syntax but I also learned new things such as arrow functions which allow for a more compact alternative to the traditional function. However, they do include there own deliberate limitations and it is important to know those such as, they should not be used as methods because they do not have bindings to this, arguments, or super like traditional functions. 
+One thing I have noticed programming is that knowing the quickest way to solve a problem with the language you are working with is important both in terms of time efficiency and and in readability of your resulting code. For example when I was first working with the Python Pandas library I did not know of the groupby function available for data frames and wrote many long functions to facilitate this function, which were both hard to understand and less flexible than the Pandas groupby function. Having a strong knowledge of the features that the language you are working with has is necessary in order to be an efficient programmer.
+During my work on the HBHD there was a time where I was working with a window in the page that would display a different PowerBI dashboard depending on user selection. I was fairly new to programming at the time and remember wishing I could return a function from another function to solve the problem I was working on. This is indeed a capability of JavaScript and one of the features that makes it unique. Also during the development of this dashboard I had to learn how to work with apsyncronis functions which is a feature that makes JavaScript perfect for web applications.
+JavaScript’s versatility and uniqueness is part of what has made it one fo the core technologies of the internet. However, harnessing the full potential of JavaScript requires a knowledge of it’s capabilities and features. The language is only as strong as the programmer.
